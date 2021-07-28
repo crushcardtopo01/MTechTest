@@ -1,0 +1,15 @@
+/Users/crush/Documents/corEscuela/test1/bin/Debug/net5.0/test1.deps.json
+/Users/crush/Documents/corEscuela/test1/bin/Debug/net5.0/test1.runtimeconfig.json
+/Users/crush/Documents/corEscuela/test1/bin/Debug/net5.0/test1.runtimeconfig.dev.json
+/Users/crush/Documents/corEscuela/test1/bin/Debug/net5.0/test1.dll
+/Users/crush/Documents/corEscuela/test1/bin/Debug/net5.0/ref/test1.dll
+/Users/crush/Documents/corEscuela/test1/bin/Debug/net5.0/test1.pdb
+/Users/crush/Documents/corEscuela/test1/obj/Debug/net5.0/test1.csproj.AssemblyReference.cache
+/Users/crush/Documents/corEscuela/test1/obj/Debug/net5.0/test1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/crush/Documents/corEscuela/test1/obj/Debug/net5.0/test1.AssemblyInfoInputs.cache
+/Users/crush/Documents/corEscuela/test1/obj/Debug/net5.0/test1.AssemblyInfo.cs
+/Users/crush/Documents/corEscuela/test1/obj/Debug/net5.0/test1.csproj.CoreCompileInputs.cache
+/Users/crush/Documents/corEscuela/test1/obj/Debug/net5.0/test1.dll
+/Users/crush/Documents/corEscuela/test1/obj/Debug/net5.0/ref/test1.dll
+/Users/crush/Documents/corEscuela/test1/obj/Debug/net5.0/test1.pdb
+/Users/crush/Documents/corEscuela/test1/obj/Debug/net5.0/test1.genruntimeconfig.cache
